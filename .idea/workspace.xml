@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="038ab75b-6f1d-4e9b-be62-afe749c22dc6" name="Changes" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ibzIYVsrM8nNZagu8wsoCxeMce" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Additional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysQues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraysQues2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary2dNotSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.CeilingNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DLLinsert.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeletionLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloorNo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FunctionOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HackerRank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearchIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.No8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPs.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OfficeReachTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnostic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1342.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1351.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1431.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1470.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1480.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1491.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1572.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1672.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1929.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q268.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q287.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q441.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q448.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q54.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q59.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q744.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q75.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Q852.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q905.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q922.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Recur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse2d.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Revision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stackconcept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableArgs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VoteEligible.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q1295.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/mistysoni/IdeaProjects/Misty/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Inheritance" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Recursion" />
+      <recent name="Pattern" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.Count" />
+      <module name="Misty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inheritance" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Misty.Inheritance" />
+      <module name="Misty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Misty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Q88" />
+      <module name="Misty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.Reverse2d" />
+      <module name="Misty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariableArgs" />
+      <module name="Misty" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Count" />
+        <item itemvalue="Application.Q88" />
+        <item itemvalue="Application.Reverse2d" />
+        <item itemvalue="Application.VariableArgs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="038ab75b-6f1d-4e9b-be62-afe749c22dc6" name="Changes" comment="" />
+      <created>1719773989380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719773989380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lectures/ArraysQues2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q1929.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lectures/Reverse2d.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q1672.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q922.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q88.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q59.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/Q744.java</url>
+          <line>9</line>
+          <properties class="leetcode.Q744" method="ceilingLetters">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
