@@ -9,8 +9,8 @@ public class ChefAndHisStudents {
         {
             // your code goes here
             Scanner in=new Scanner(System.in);
-            int t=in.nextInt();
-            while(t-- >0){
+            int testcases=in.nextInt();
+            while(testcases-- >0){
                 String s=in.next();
                 int count=0;
                 for(int i=0;i<s.length()-1;i++){

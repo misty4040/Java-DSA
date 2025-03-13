@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="038ab75b-6f1d-4e9b-be62-afe749c22dc6" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/ObjectPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Triangle.java" afterDir="false" />
+    <list default="true" id="038ab75b-6f1d-4e9b-be62-afe749c22dc6" name="Changes" comment="difficulty:1047">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;misty4040&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/misty4040/Java-DSA.git&quot;,
+    &quot;accountId&quot;: &quot;806ca45a-c7d6-4b71-9c2c-3648cfd1f16f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/CodeChef/EventualReduction.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -43,6 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Additional.executor": "Run",
+    "Application.AirlineRestriction.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array2.executor": "Run",
     "Application.ArrayListt.executor": "Run",
@@ -58,6 +67,7 @@
     "Application.CyclicSort.executor": "Run",
     "Application.DLLinsert.executor": "Run",
     "Application.DeletionLL.executor": "Run",
+    "Application.DifferentConsecutiveCharacters.executor": "Debug",
     "Application.DoublyLL.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.Factorial.executor": "Debug",
@@ -87,7 +97,7 @@
     "Application.OfficeReachTime.executor": "Run",
     "Application.OrderAgnostic.executor": "Run",
     "Application.PatternSort.executor": "Debug",
-    "Application.Q1.executor": "Run",
+    "Application.Q1.executor": "Debug",
     "Application.Q1342.executor": "Run",
     "Application.Q1351.executor": "Run",
     "Application.Q1431.executor": "Run",
@@ -96,6 +106,7 @@
     "Application.Q1491.executor": "Run",
     "Application.Q1572.executor": "Run",
     "Application.Q1672.executor": "Run",
+    "Application.Q1768.executor": "Run",
     "Application.Q1929.executor": "Run",
     "Application.Q21.executor": "Run",
     "Application.Q268.executor": "Run",
@@ -125,6 +136,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mistysoni/Desktop/java/Misty",
     "onboarding.tips.debug.path": "/Users/mistysoni/IdeaProjects/Misty/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
@@ -138,7 +150,7 @@
       <recent name="Pattern" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Inheritance">
     <configuration name="Count" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lectures.Count" />
       <module name="Misty" />
@@ -216,6 +228,71 @@
       <option name="presentableId" value="Default" />
       <updated>1719773989380</updated>
     </task>
+    <task id="LOCAL-00001" summary="Learning1">
+      <option name="closed" value="true" />
+      <created>1740992723101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740992723101</updated>
+    </task>
+    <task id="LOCAL-00002" summary="difficulty:879">
+      <option name="closed" value="true" />
+      <created>1741070543099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741070543099</updated>
+    </task>
+    <task id="LOCAL-00003" summary="difficulty:879">
+      <option name="closed" value="true" />
+      <created>1741070572553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741070572553</updated>
+    </task>
+    <task id="LOCAL-00004" summary="difficulty:1042">
+      <option name="closed" value="true" />
+      <created>1741190539860</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741190539860</updated>
+    </task>
+    <task id="LOCAL-00005" summary="difficulty:1042">
+      <option name="closed" value="true" />
+      <created>1741284820281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741284820281</updated>
+    </task>
+    <task id="LOCAL-00006" summary="difficulty:1042">
+      <option name="closed" value="true" />
+      <created>1741367798008</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741367798009</updated>
+    </task>
+    <task id="LOCAL-00007" summary="difficulty:1042">
+      <option name="closed" value="true" />
+      <created>1741526891486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741526891486</updated>
+    </task>
+    <task id="LOCAL-00008" summary="difficulty:1047">
+      <option name="closed" value="true" />
+      <created>1741625872990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741625872990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,7 +318,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Learning1" />
+    <MESSAGE value="difficulty:879" />
+    <MESSAGE value="difficulty:1042" />
+    <MESSAGE value="difficulty:1047" />
+    <option name="LAST_COMMIT_MESSAGE" value="difficulty:1047" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
