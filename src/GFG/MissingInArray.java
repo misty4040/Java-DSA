@@ -11,7 +11,7 @@ public class MissingInArray {
 
     private static int missingNumber(int[] arr) {
         int n=arr.length;
-        int ans=0;
+
         Arrays.sort(arr);
         for(int i=0;i<n;i++){
             if(arr[i]!=i+1){
