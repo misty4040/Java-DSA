@@ -12,12 +12,12 @@ public class LeafNodeInBST {
     }
 
     private static void preorder(Node root) {
-        if(root == null){
+        if (root == null) {
             return;
         }
 
-        if(root.left == null && root.right == null){
-            System.out.print(root.val+" ");
+        if (root.left == null && root.right == null) {
+            System.out.print(root.val + " ");
         }
         preorder(root.left);
         preorder(root.right);
