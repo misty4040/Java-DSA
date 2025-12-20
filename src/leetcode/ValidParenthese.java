@@ -4,7 +4,7 @@ public class ValidParenthese {
 
 
     public static void main(String[] args) {
-        String  s = "()";
+        String  s = "()"; //"([])"
         boolean res=isValid(s);
         System.out.println(res);
     }

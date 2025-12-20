@@ -1,4 +1,8 @@
 package Pattern;
+//*
+//**
+//***
+//****
 
 public class No2 {
     public static void main(String[] args) {
@@ -13,4 +17,6 @@ public class No2 {
         }
     }
 }
+
+
 

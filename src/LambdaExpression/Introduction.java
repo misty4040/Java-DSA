@@ -21,7 +21,7 @@ interface Factor{
 
 public class Introduction {
     public static void main(String[] args) {
-        MyNumber mynum;
+        MyNumber mynum;//refrence variable
         mynum = () -> 123.45;
         System.out.println(mynum.getValue());
 

@@ -9,14 +9,15 @@ public class Q2278 {
     }
 
     private static int percentageLetter(String s, char letter) {
-        char[] ch=s.toCharArray();
+        int n = s.length();
         int count=0;
-        for(int i=0;i<ch.length;i++){
-            if(ch[i]==letter){
+
+        for(int i=0;i<n;i++){
+            if(s.charAt(i) == letter){
                 count++;
             }
         }
-      double per=((double) count/ch.length)*100;
-        return (int)per;
+
+        return (count * 100)/n;
     }
 }

@@ -1,19 +1,8 @@
 package BinaryTree;
 
-class Node{
-    int val;
-    Node left;
-    Node right;
-
-    Node(int val){
-      this.val = val;
-    }
-
-
-}
 public class Traversal {
 
-    public static void preorder(Node root){
+    public static void preorder(TreeNode root){
         if(root == null){
             return;
         }
@@ -23,7 +12,7 @@ public class Traversal {
         preorder(root.right);
     }
 
-    public static void postorder(Node root){
+    public static void postorder(TreeNode root){
         if(root == null){
             return;
         }
@@ -33,7 +22,7 @@ public class Traversal {
         System.out.print(root.val+" ");
     }
 
-    public static void inorder(Node root){
+    public static void inorder(TreeNode root){
         if(root == null){
             return;
         }
@@ -44,11 +33,11 @@ public class Traversal {
     }
 
     public static void main(String[] args) {
-        Node root = new Node(1);
-        root.left = new Node(2);
-        root.right = new Node(3);
-        root.left.left = new Node(4);
-        root.left.right = new Node(5);
+        TreeNode root = new TreeNode(1);
+        root.left = new TreeNode(2);
+        root.right = new TreeNode(3);
+        root.left.left = new TreeNode(4);
+        root.left.right = new TreeNode(5);
 
         preorder(root);
         System.out.println();

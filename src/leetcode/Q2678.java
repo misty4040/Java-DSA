@@ -11,7 +11,7 @@ public class Q2678 {
       int count =0;
       for(int i=0;i<details.length;i++) {
           res=details[i];
-          if(res.charAt(11) > '6' || (res.charAt(11) == '6' && res.charAt(12)>'0') ){
+          if(res.charAt(11) > '6' || (res.charAt(11) == '6' && res.charAt(12) >'0') ){
               count++;
           }
       }

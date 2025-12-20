@@ -1,5 +1,11 @@
 package Pattern;
 
+//1
+//12
+//123
+//1234
+//12345
+
 public class No3 {
     public static void main(String[] args) {
         pattern(5);

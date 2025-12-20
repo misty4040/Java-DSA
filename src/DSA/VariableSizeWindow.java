@@ -7,17 +7,17 @@ public class VariableSizeWindow {
     }
 
     private static int findmin(int[] arr, int target) {
-        int sum=0;
-        int start =0;
+        int start = 0 ;
+        int sum = 0;
         int mins = Integer.MAX_VALUE;
-        int end;
-        for(end=0;end<arr.length;end++){
+        for(int end =0;end<arr.length;end++){
             sum+=arr[end];
-            while(sum>=target){
-                mins = Math.min(mins,(end-start)+1);
-                sum-= arr[start++];
+
+            while(sum >= target){
+                mins = Math.min(mins,(end - start) + 1);
+                sum-=arr[start++];
             }
         }
-        return  mins;
+        return mins;
     }
 }

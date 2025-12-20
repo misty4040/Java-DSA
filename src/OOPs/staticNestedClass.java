@@ -22,16 +22,16 @@ class outer1{
     }
 
     public static void main(String[] args) {
-//        nested1 nes=new nested1();
-//        nes.showMessage();
+    //   nested1 nes=new nested1();
+        //   //nes.showMessage();
         outer1.nested1.showMessage();
     }
 }
 
 public class staticNestedClass {
     public static void main(String[] args) {
-//        outer.nested nested=new outer.nested();
-//        nested.display();
+        outer.nested nest=new outer.nested();
+        nest.display();
 
     }
 }

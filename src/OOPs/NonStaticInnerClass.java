@@ -2,14 +2,17 @@ package OOPs;
 
 //Non static Inner Class
 
-//class out{
-//    int x=10;
-//    class in{
-//        void display(){
-//            System.out.println(x);
-//        }
-//    }
-//}
+class out{
+    int x=10;
+    class in{
+        void display(){
+            System.out.println(x);
+        }
+    }
+};
+
+
+
 
 //Local Inner Class
 
@@ -27,6 +30,7 @@ package OOPs;
 //   }
 //}
 
+
 //Anonymous Class
 
 //a class without a name
@@ -39,6 +43,7 @@ public class NonStaticInnerClass {
     public static void main(String[] args) {
 
 //        Inner class
+
 //        out obj=new out();
 //        out.in obj2=obj.new in();
 //        obj2.display();
